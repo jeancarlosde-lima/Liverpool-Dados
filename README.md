@@ -39,3 +39,20 @@ Para executar o programa, simplesmente rode o script:
 ```bash
 python liverpool.py
 
+liverpoolgrphic.py
+Descrição
+O liverpoolgrphic.py é um programa que gera gráficos para visualizar dados relacionados à academia de futebol, utilizando a biblioteca matplotlib.
+
+Funcionalidades
+Infraestrutura da Academia: Gera um gráfico de barras mostrando a quantidade de diferentes facilidades.
+Filosofia de Treinamento: Cria um gráfico de pizza representando a distribuição do foco em aspectos técnicos, físicos e mentais.
+Programa de Desenvolvimento: Desenha um gráfico de linha ilustrando o número de jogadores em diferentes categorias.
+Casos de Sucesso: Gera um gráfico de dispersão mostrando o impacto de jogadores-chave em relação ao tempo no clube.
+Como Usar
+Para executar o programa, rode o script:
+python liverpoolgrphic.py
+
+Dependências
+matplotlib: Para instalar, use:
+pip install matplotlib
+
